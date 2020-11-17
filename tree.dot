@@ -1,0 +1,56 @@
+digraph List {
+node [shape="box"]
+"box0" [shape = "record", label = "{Cat?}"]
+"box1" [shape = "record", label = "{From Ufa?}"]
+"box2" [shape = "record", label = "{Grandma?}"]
+"box3" [shape = "record", label = "{Alya}"]
+"box2" -> "box3"
+"box4" [shape = "record", label = "{Mouse}"]
+"box2" -> "box4"
+"box1" -> "box2"
+"box5" [shape = "record", label = "{Black?}"]
+"box6" [shape = "record", label = "{White color?}"]
+"box7" [shape = "record", label = "{Pushinka}"]
+"box6" -> "box7"
+"box8" [shape = "record", label = "{Drakosha}"]
+"box6" -> "box8"
+"box5" -> "box6"
+"box9" [shape = "record", label = "{Poltorashka}"]
+"box5" -> "box9"
+"box1" -> "box5"
+"box0" -> "box1"
+"box10" [shape = "record", label = "{Matematician?}"]
+"box11" [shape = "record", label = "{Lector?}"]
+"box12" [shape = "record", label = "{Znamenskaya}"]
+"box11" -> "box12"
+"box13" [shape = "record", label = "{Work in 153 lyceum?}"]
+"box14" [shape = "record", label = "{Sahanevich}"]
+"box13" -> "box14"
+"box15" [shape = "record", label = "{Ogarkov Stanislav Leonidovich}"]
+"box13" -> "box15"
+"box11" -> "box13"
+"box10" -> "box11"
+"box16" [shape = "record", label = "{Young man?}"]
+"box17" [shape = "record", label = "{Live in the 425?}"]
+"box18" [shape = "record", label = "{Zaruinil processor?}"]
+"box19" [shape = "record", label = "{Otec goda}"]
+"box18" -> "box19"
+"box20" [shape = "record", label = "{Egor}"]
+"box18" -> "box20"
+"box17" -> "box18"
+"box21" [shape = "record", label = "{Mark?}"]
+"box22" [shape = "record", label = "{Alco man}"]
+"box21" -> "box22"
+"box23" [shape = "record", label = "{Ivanov}"]
+"box21" -> "box23"
+"box17" -> "box21"
+"box16" -> "box17"
+"box24" [shape = "record", label = "{Informatics?}"]
+"box25" [shape = "record", label = "{Dedinskiy}"]
+"box24" -> "box25"
+"box26" [shape = "record", label = "{Ovchinnikov}"]
+"box24" -> "box26"
+"box16" -> "box24"
+"box10" -> "box16"
+"box0" -> "box10"
+}

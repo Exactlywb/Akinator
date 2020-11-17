@@ -1,0 +1,81 @@
+[
+	?Cat?
+	[
+		?From Ufa?
+		[
+			?Grandma?
+			[
+				`Alya`
+			]
+			[
+				`Mouse`
+			]
+		]
+		[
+			?Black?
+			[
+				?White color?
+				[
+					`Pushinka`
+				]
+				[
+					`Drakosha`
+				]
+			]
+			[
+				`Poltorashka`
+			]
+		]
+	]
+	[
+		?Matematician?
+		[
+			?Lector?
+			[
+				`Znamenskaya`
+			]
+			[
+				?Work in 153 lyceum?
+				[
+					`Sahanevich`
+				]
+				[
+					`Ogarkov Stanislav Leonidovich`
+				]
+			]
+		]
+		[
+			?Young man?
+			[
+				?Live in the 425?
+				[
+					?Zaruinil processor?
+					[
+						`Otec goda`
+					]
+					[
+						`Egor`
+					]
+				]
+				[
+					?Mark?
+					[
+						`Alco man`
+					]
+					[
+						`Ivanov`
+					]
+				]
+			]
+			[
+				?Informatics?
+				[
+					`Dedinskiy`
+				]
+				[
+					`Ovchinnikov`
+				]
+			]
+		]
+	]
+]
