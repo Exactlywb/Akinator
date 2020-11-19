@@ -8,7 +8,25 @@
 				`Alya`
 			]
 			[
-				`Mouse`
+				?Live on street?
+				[
+					?Dark gray color?
+					[
+						`Monah`
+					]
+					[
+						`Demon`
+					]
+				]
+				[
+					?Plural ?
+					[
+						`Mice`
+					]
+					[
+						`Mouse`
+					]
+				]
 			]
 		]
 		[
@@ -23,7 +41,13 @@
 				]
 			]
 			[
-				`Poltorashka`
+				?From childhood?
+				[
+					`Ryzhik`
+				]
+				[
+					`Poltorashka`
+				]
 			]
 		]
 	]
@@ -51,10 +75,22 @@
 				[
 					?Zaruinil processor?
 					[
-						`Otec goda`
+						?Tatarin?
+						[
+							`Timur`
+						]
+						[
+							`Otec goda`
+						]
 					]
 					[
-						`Egor`
+						?Don't drink?
+						[
+							`Matvey`
+						]
+						[
+							`Egor`
+						]
 					]
 				]
 				[
@@ -63,7 +99,13 @@
 						`Alco man`
 					]
 					[
-						`Ivanov`
+						?Lives in any room?
+						[
+							`Ardan`
+						]
+						[
+							`Ivanov`
+						]
 					]
 				]
 			]
