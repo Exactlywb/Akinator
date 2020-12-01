@@ -1,6 +1,0 @@
-ERR_TMPL (ROOT_EXIST , "Root already exists in this tree!")
-ERR_TMPL (NONE_TREE  , "Tree's pointer is NULL!")
-ERR_TMPL (NULL_PARENT, "Parent's pointer is NULL!")
-ERR_TMPL (LEFT_NODE_EXIST, "Left node of parent node already exists!")
-ERR_TMPL (RIGHT_NODE_EXIST, "Right node of parent node already exists!")
-ERR_TMPL (INCORRECT_INPUT_TREE, "Incorrect input! There couldn't be more than 2 branches!")
