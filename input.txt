@@ -1,0 +1,57 @@
+[
+	?Musiciant?
+	[
+		?Woman?
+		[
+			?Rapper?
+			[
+				?R&B?
+				[
+					`SZA`
+				]
+				[
+					`Kehlani`
+				]
+			]
+			[
+				?Sing nowaday?
+				[
+					`Grechka`
+				]
+				[
+					`Irina Circle`
+				]
+			]
+		]
+		[
+			?R&B?
+			[
+				`The Weeknd`
+			]
+			[
+				`Michael Circle`
+			]
+		]
+	]
+	[
+		?Teachs in MIPT?
+		[
+			?Got education in MIPT?
+			[
+				`Kalashnikov`
+			]
+			[
+				`Ogarkov Stanislav Leonidovich`
+			]
+		]
+		[
+			?Kills the fly?
+			[
+				`Alya`
+			]
+			[
+				`Sahanevich`
+			]
+		]
+	]
+]
