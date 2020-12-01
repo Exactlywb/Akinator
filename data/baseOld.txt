@@ -1,0 +1,124 @@
+
+[
+	?Cat?
+	[
+		?From Ufa?
+		[
+			?Grandma?
+			[
+				`Alya`
+			]
+			[
+				?Live on street?
+				[
+					?Dark gray color?
+					[
+						`Monah`
+					]
+					[
+						`Demon`
+					]
+				]
+				[
+					?Plural ?
+					[
+						`Mice`
+					]
+					[
+						`Mouse`
+					]
+				]
+			]
+		]
+		[
+			?Black?
+			[
+				?White color foot?
+				[
+					`Pushinka`
+				]
+				[
+					`Drakosha`
+				]
+			]
+			[
+				?From childhood?
+				[
+					`Ryzhik`
+				]
+				[
+					`Poltorashka`
+				]
+			]
+		]
+	]
+	[
+		?Matematician?
+		[
+			?Lector?
+			[
+				`Znamenskaya`
+			]
+			[
+				?Work in 153 lyceum?
+				[
+					`Sahanevich`
+				]
+				[
+					`Ogarkov Stanislav Leonidovich`
+				]
+			]
+		]
+		[
+			?Young man?
+			[
+				?Live in the 425?
+				[
+					?Zaruinil processor?
+					[
+						?Tatarin?
+						[
+							`Timur`
+						]
+						[
+							`Otec goda`
+						]
+					]
+					[
+						?Don't drink?
+						[
+							`Matvey`
+						]
+						[
+							`Egor`
+						]
+					]
+				]
+				[
+					?Mark?
+					[
+						`Alco man`
+					]
+					[
+						?Lives in any room?
+						[
+							`Ardan`
+						]
+						[
+							`Ivanov`
+						]
+					]
+				]
+			]
+			[
+				?Informatics?
+				[
+					`Dedinskiy`
+				]
+				[
+					`Ovchinnikov`
+				]
+			]
+		]
+	]
+]
