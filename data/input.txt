@@ -1,0 +1,15 @@
+[
+	?Man?
+	[
+		`Mathematician`
+		[
+			`Sahanevich`
+		]
+		[
+			`Egor`
+		]
+	]
+	[
+		`Alya`
+	]
+]

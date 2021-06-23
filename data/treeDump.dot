@@ -1,0 +1,84 @@
+digraph List {
+node [shape="circle"]
+"box0" [shape = "record", label = "{Cat?}"]
+"box1" [shape = "record", label = "{From Ufa?}"]
+"box2" [shape = "record", label = "{Grandma?}"]
+"box3" [shape = "record", label = "{Alya}"]
+"box2" -> "box3"
+"box4" [shape = "record", label = "{Live on street?}"]
+"box5" [shape = "record", label = "{Dark gray color?}"]
+"box6" [shape = "record", label = "{Monah}"]
+"box5" -> "box6"
+"box7" [shape = "record", label = "{Demon}"]
+"box5" -> "box7"
+"box4" -> "box5"
+"box8" [shape = "record", label = "{Plural ?}"]
+"box9" [shape = "record", label = "{Mice}"]
+"box8" -> "box9"
+"box10" [shape = "record", label = "{Mouse}"]
+"box8" -> "box10"
+"box4" -> "box8"
+"box2" -> "box4"
+"box1" -> "box2"
+"box11" [shape = "record", label = "{Black?}"]
+"box12" [shape = "record", label = "{White color foot?}"]
+"box13" [shape = "record", label = "{Pushinka}"]
+"box12" -> "box13"
+"box14" [shape = "record", label = "{Drakosha}"]
+"box12" -> "box14"
+"box11" -> "box12"
+"box15" [shape = "record", label = "{From childhood?}"]
+"box16" [shape = "record", label = "{Ryzhik}"]
+"box15" -> "box16"
+"box17" [shape = "record", label = "{Poltorashka}"]
+"box15" -> "box17"
+"box11" -> "box15"
+"box1" -> "box11"
+"box0" -> "box1"
+"box18" [shape = "record", label = "{Matematician?}"]
+"box19" [shape = "record", label = "{Lector?}"]
+"box20" [shape = "record", label = "{Znamenskaya}"]
+"box19" -> "box20"
+"box21" [shape = "record", label = "{Work in 153 lyceum?}"]
+"box22" [shape = "record", label = "{Sahanevich}"]
+"box21" -> "box22"
+"box23" [shape = "record", label = "{Ogarkov Stanislav Leonidovich}"]
+"box21" -> "box23"
+"box19" -> "box21"
+"box18" -> "box19"
+"box24" [shape = "record", label = "{Young man?}"]
+"box25" [shape = "record", label = "{Live in the 425?}"]
+"box26" [shape = "record", label = "{Zaruinil processor?}"]
+"box27" [shape = "record", label = "{Tatarin?}"]
+"box28" [shape = "record", label = "{Timur}"]
+"box27" -> "box28"
+"box29" [shape = "record", label = "{Otec goda}"]
+"box27" -> "box29"
+"box26" -> "box27"
+"box30" [shape = "record", label = "{Don't drink?}"]
+"box31" [shape = "record", label = "{Matvey}"]
+"box30" -> "box31"
+"box32" [shape = "record", label = "{Egor}"]
+"box30" -> "box32"
+"box26" -> "box30"
+"box25" -> "box26"
+"box33" [shape = "record", label = "{Mark?}"]
+"box34" [shape = "record", label = "{Alco man}"]
+"box33" -> "box34"
+"box35" [shape = "record", label = "{Lives in any room?}"]
+"box36" [shape = "record", label = "{Ardan}"]
+"box35" -> "box36"
+"box37" [shape = "record", label = "{Ivanov}"]
+"box35" -> "box37"
+"box33" -> "box35"
+"box25" -> "box33"
+"box24" -> "box25"
+"box38" [shape = "record", label = "{Informatics?}"]
+"box39" [shape = "record", label = "{Dedinskiy}"]
+"box38" -> "box39"
+"box40" [shape = "record", label = "{Ovchinnikov}"]
+"box38" -> "box40"
+"box24" -> "box38"
+"box18" -> "box24"
+"box0" -> "box18"
+}
